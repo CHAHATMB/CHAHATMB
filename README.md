@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chahat 😊</h1>
 <h4 align="center">Software Developer at Wells Fargo with a passion for crafting elegant solutions to complex problems. Specialized in Android development using Kotlin and backend development with Node.js.</h4>
 
-- 🌱 I’m a **Android Development**, learning GoLang.
+- 🌱 I’m a **Android Developer**, learning GoLang.
 
 - 💬 Ask me about **Android, NodeJs**
 
